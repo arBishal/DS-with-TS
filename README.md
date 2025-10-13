@@ -1,4 +1,4 @@
-# DS-with-TS
+# Data Structure with TypeScript
 
 This project implements popular data structures in TypeScript. Each data structure is encapsulated in its own module, providing a clear and organized way to manage the code.
 
