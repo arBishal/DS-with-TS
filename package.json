@@ -1,0 +1,24 @@
+{
+  "name": "ds-with-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript project implementing popular data structures.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "keywords": [
+    "typescript",
+    "data structures",
+    "linked list",
+    "stack",
+    "queue",
+    "map"
+  ],
+  "author": "arBishal",
+  "license": "ISC"
+}
